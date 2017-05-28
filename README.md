@@ -1,6 +1,6 @@
 # Simple_GAN_for_Keras
 Simple GAN model for Keras using very simple model originally proposed by [Goodfellow et al. (2014)](https://arxiv.org/abs/1406.2661) and [the MNIST database](http://yann.lecun.com/exdb/mnist/).  
-The paper does not have any specific networks so the models on the web articles are referenced.
+The paper does not have any specific networks so the websites below are referenced to build the network here.
 
 #### Generated Images
 <img src="./generated-images/animation.gif" width="324" alt="Generated Images" >
